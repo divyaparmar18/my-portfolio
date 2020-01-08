@@ -1,0 +1,85 @@
+body {
+    background-image: url("grey.jpg");
+    width: 100%;
+}
+
+.nav a {
+    float: left;
+    color: rgb(134, 213, 233);
+    text-align: center;
+    margin: 20px;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 40px;
+}
+
+.nav a:hover {
+    color: rgb(10, 129, 158);
+}
+
+h1 {
+    color: Black;
+    font-family: serif;
+    position: relative;
+    left: 350px;
+    top: 90px;
+    font-size: 80px;
+}
+
+.python {
+    color: #ff8080;
+    position: relative;
+    left: 300;
+    top: 100;
+    font-size: 60;
+}
+
+.list {
+    color: white;
+    position: relative;
+    left: 750;
+    top: 80;
+    font-size: 40;
+}
+
+.node {
+    color: #ff8080;
+    position: relative;
+    top: 150px;
+    left: 130;
+    font-size: 60;
+}
+
+.nodelist {
+    color: white;
+    position: relative;
+    top: 140;
+    left: 150;
+    font-size: 40;
+}
+
+.java {
+    color: #ff8080;
+    position: relative;
+    bottom: 110;
+    left: 1300;
+    font-size: 60;
+}
+
+.javalist {
+    color: white;
+    position: relative;
+    bottom: 120;
+    left: 1360;
+    font-size: 40;
+}
+
+a {
+    text-decoration: none;
+    color: white
+}
+
+a:hover {
+    color: rgb(134, 213, 233);
+    ;
+}
